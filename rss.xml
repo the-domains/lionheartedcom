@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lionhearted.com]]></title>
+        <description><![CDATA[lionhearted.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 17:34:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wandering: New York]]></title>
+            <description><![CDATA[<article><h1>Wandering: New York</h1><p>Please watch this video with headphones or good speakers for the full effect! This short film aims to give a brief portrait of what it feels like to wander around New York City. These 3 minutes will hopefully give you the impression of being right in the city.</p></article>]]></description>
+            <link>https://vimeo.com/115179625</link>
+            <guid isPermaLink="false">01713b07-fc3b-462d-b3bb-b81a1f6fbe0b</guid>
+            <pubDate>Tue, 02 Aug 2016 17:34:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
