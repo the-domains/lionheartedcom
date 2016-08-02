@@ -1,0 +1,14 @@
+layout_spectrum: 0.5772282439284027
+typography_spectrum: 0.5186058718245476
+color:
+  brandStrength: 0.5251698459032923
+  lightness: 0.8089068548288196
+  saturation: 0.5921142431907356
+  rhythmicContrast: 0.8225107956677675
+  brandColors:
+    - '#FFFFFF'
+    - '#F1D205'
+    - '#B69E00'
+    - '#F0EDB2'
+    - '#ECDA53'
+name: lionhearted.com
